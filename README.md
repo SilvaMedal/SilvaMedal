@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SilvaMedal
 - 👀 I’m interested in ... board games, video games, and everything Marvel!
-- 🌱 I’m currently learning ... JavaScript, and computer science basics.
-- 💞️ I’m looking to collaborate on ... well, really just getting started, so open to ideas and suggestions.
+- 🌱 I’m currently learning ... TypeScript, and computer science basics.
+- 💞️ I’m looking to collaborate on ... anything!  Love a good challenge!
 - 📫 How to reach me ... here at GitHub, but expansions coming soon!
 
 <!---
