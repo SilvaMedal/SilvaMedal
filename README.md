@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SilvaMedal
-- 👀 I’m interested in ... board games, video games, and everything Marvel!
-- 🌱 I’m currently learning ... TypeScript, and computer science basics.
-- 💞️ I’m looking to collaborate on ... anything!  Love a good challenge!
-- 📫 How to reach me ... here at GitHub, but expansions coming soon!
+Hi, I'm Anthony!
+I'm a self-taught TypeScript & React developer.  
+I've recently completed my first contract (ask me about it!), and am actively looking to be a Junior Web Developer.
+I'm a fast learner, and creative problem solver.  I love games of all sorts (video, board, and word)!
+If you have any questions, just ask!
 
 <!---
 SilvaMedal/SilvaMedal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
