@@ -1,4 +1,4 @@
-#**Anthony Silva**
+#Anthony Silva
 #aka SilvaMedal
 ##Software Developer
 
