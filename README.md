@@ -1,3 +1,7 @@
+#**Anthony Silva**
+#aka SilvaMedal
+##Software Developer
+
 Experienced in TypeScript and React, seeking opportunities to apply and enhance these skills in delivering exceptional user experiences. 
 Demonstrated ability to communicate effectively and surpass client expectations through years of experience in the hospitality industry. 
 Exceptionally attentive to detail with strong communication and time management skills. 
