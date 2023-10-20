@@ -14,8 +14,7 @@
   - tRPC
 
 ### About
-I come from a background of hospitality and restaurant management.  I'm a self-taught web developer with Full-stack experience and a Front-end focus.  I love challenging myself and learning new technologies.  Outside of coding, I enjoy reading, movies, board games, video games, and lawn games (bocce, cornhole, etc).
-Currently, I'm part of the [CD Techies](https://github.com/CD-Squared-Tech) organization, a mixed group of senior developers and "new-to-tech" developers.  
+Experienced software developer specializing in TypeScript and React. Dedicated team lead at a local non-profit development organization, [CD Tech](https://github.com/CD-Squared-Tech). Committed to delivering exceptional user experiences through a solid foundation in web development. Proven track record of surpassing client expectations and effective communication honed during years of experience in the hospitality industry. Meticulous attention to detail, combined with strong time management skills, ensures the delivery of high-quality results. A highly motivated problem-solver and fast learner, enthusiastic about embracing new challenges and fostering professional growth.   organization, a mixed group of senior developers and "new-to-tech" developers.  
 <!---
 SilvaMedal/SilvaMedal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
