@@ -5,6 +5,7 @@
   - TypeScript
   - JavaScript
   - React
+  - Next.js
   - HTML/CSS
   - Postgres
   - Node.js
